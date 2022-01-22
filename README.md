@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
-<h3 align="center">Senior Software Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitenwhatever&label=Profile%20views&color=0e75b6&style=flat" alt="jitenwhatever" /> </p>
 
@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/jiten" target="blank"><img src="https://img.shields.io/twitter/follow/jiten?logo=twitter&style=for-the-badge" alt="jiten" /></a> </p> -->
 
-- 🔭 I’m currently working in **Amdocs**
+- 🔭 I’m currently working in **Amazon**
 
 <!-- - 👯 I’m looking to collaborate on **Springboot** -->
 
