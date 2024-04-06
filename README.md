@@ -12,7 +12,7 @@
 <!-- - 👯 I’m looking to collaborate on **Springboot** -->
 
 - 💬 Ask me about **Java, Springboot, openAPISpecification, Microservices, Devops**
-- 🤝 I’m looking for help with **AWS**
+- 🤝 I’m looking for help with **Multitenant Systems**
 
 - 📫 How to reach me [https://www.linkedin.com/in/jitendra-kumar-607017129/](https://www.linkedin.com/in/jitendra-kumar-607017129/)
 
